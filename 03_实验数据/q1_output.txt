@@ -1,0 +1,32 @@
+
+Loading model... 
+
+
+▄▄ ▄▄
+██ ██
+██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄
+██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██
+██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀
+                                    ██    ██
+                                    ▀▀    ▀▀
+
+build      : b1-2f2d440
+model      : deepseek-v4-flash-iq2xxs.gguf
+modalities : text
+
+available commands:
+  /exit or Ctrl+C     stop or exit
+  /regen              regenerate the last response
+  /clear              clear the chat history
+  /read <file>        add a text file
+  /glob <pattern>     add text files using globbing pattern
+
+
+> 1+1���ڼ�����ֱ�ӻش����֡�
+
+[Start thinking]
+���������ش�"1+1"�Ľ����Ȼ��2����û���κθ��ӻ��ڡ���
+
+[ Prompt: 0.4 t/s | Generation: 0.6 t/s ]
+
+Exiting...
