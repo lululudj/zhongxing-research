@@ -1,0 +1,17 @@
+*.gguf
+*.bin
+*.safetensors
+*.dll
+*.exe
+*.lib
+*.obj
+*.o
+*.a
+*.so
+*.dylib
+*.zip
+*.msi
+*.log
+__pycache__/
+*.pyc
+.env
